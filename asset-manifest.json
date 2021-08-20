@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/JesseEisenbart/return-landing-page/static/css/main.416b7e7a.chunk.css",
+    "main.js": "/JesseEisenbart/return-landing-page/static/js/main.b3917176.chunk.js",
+    "main.js.map": "/JesseEisenbart/return-landing-page/static/js/main.b3917176.chunk.js.map",
+    "runtime-main.js": "/JesseEisenbart/return-landing-page/static/js/runtime-main.7a2670f3.js",
+    "runtime-main.js.map": "/JesseEisenbart/return-landing-page/static/js/runtime-main.7a2670f3.js.map",
+    "static/js/2.d611278a.chunk.js": "/JesseEisenbart/return-landing-page/static/js/2.d611278a.chunk.js",
+    "static/js/2.d611278a.chunk.js.map": "/JesseEisenbart/return-landing-page/static/js/2.d611278a.chunk.js.map",
+    "index.html": "/JesseEisenbart/return-landing-page/index.html",
+    "static/css/main.416b7e7a.chunk.css.map": "/JesseEisenbart/return-landing-page/static/css/main.416b7e7a.chunk.css.map",
+    "static/js/2.d611278a.chunk.js.LICENSE.txt": "/JesseEisenbart/return-landing-page/static/js/2.d611278a.chunk.js.LICENSE.txt",
+    "static/media/background1.3635012e.png": "/JesseEisenbart/return-landing-page/static/media/background1.3635012e.png",
+    "static/media/background2.c287085c.png": "/JesseEisenbart/return-landing-page/static/media/background2.c287085c.png",
+    "static/media/background3.26b898b7.png": "/JesseEisenbart/return-landing-page/static/media/background3.26b898b7.png",
+    "static/media/background4.614b76b2.png": "/JesseEisenbart/return-landing-page/static/media/background4.614b76b2.png",
+    "static/media/background5.206eeac1.png": "/JesseEisenbart/return-landing-page/static/media/background5.206eeac1.png",
+    "static/media/background6.26656744.png": "/JesseEisenbart/return-landing-page/static/media/background6.26656744.png",
+    "static/media/background7.0cfff07a.png": "/JesseEisenbart/return-landing-page/static/media/background7.0cfff07a.png",
+    "static/media/cave.2cd540c3.png": "/JesseEisenbart/return-landing-page/static/media/cave.2cd540c3.png",
+    "static/media/forest.d8fd7838.png": "/JesseEisenbart/return-landing-page/static/media/forest.d8fd7838.png",
+    "static/media/graveyard.12204f4d.png": "/JesseEisenbart/return-landing-page/static/media/graveyard.12204f4d.png",
+    "static/media/ship.66d15645.png": "/JesseEisenbart/return-landing-page/static/media/ship.66d15645.png",
+    "static/media/App.css": "/JesseEisenbart/return-landing-page/static/media/small.f7c6a95e.png",
+    "static/media/text.b2c71ed3.png": "/JesseEisenbart/return-landing-page/static/media/text.b2c71ed3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a2670f3.js",
+    "static/js/2.d611278a.chunk.js",
+    "static/css/main.416b7e7a.chunk.css",
+    "static/js/main.b3917176.chunk.js"
+  ]
+}
