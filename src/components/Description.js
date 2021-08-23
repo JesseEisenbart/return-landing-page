@@ -4,7 +4,7 @@ const Description = () => {
             <div className="description">
                 <h5>Return is an adventure set in the apocalyptic rebirth of your home planet, where your only hope of survival is to explore the unfamiliar landscape.</h5>
                 <div className="columntext">
-                    <p className="left">
+                    <p>
                         The planet’s ecosystems are shutting down, natural resources are scarce, chaos and wars rage as remaining inhabitants reach for the stars.   
                         <br></br>
                         <br></br>

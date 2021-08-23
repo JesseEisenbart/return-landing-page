@@ -230,31 +230,13 @@ a {
   margin-bottom: 30px;
 }
 
-.columntext p.left {
-  margin-right: 50px;
-}
-
 .columntext p {
   font-weight: 300;
   font-size: 20px;
-  vertical-align: top;
   margin-bottom: 1.6em;
-  width: 325px;
-  display: inline-block;
+  display: block;
 }
 
-@media (max-width: 800px) { 
-  .columntext p {
-    display: block;
-  }
-  .columntext p {
-    width: 100%;   
-  }
-  .columntext p.left {
-    margin-right: 0px;
-  }
-  
-}
 /* Description Start */
 
 /* Images Start */
