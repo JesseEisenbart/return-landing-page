@@ -1,15 +1,23 @@
 import Nav from "./components/Nav";
-import Hero from "./components/Hero";
-import Main from "./components/Main";
-import './App.css';
+import NavFooter from "./components/NavFooter";
+import Presskit from "./Pages/Presskit";
+import Home from "./Pages/Home";
+import NotFound from "./Pages/NotFound";
+import './App.scss';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import Copyright from "./components/Copyright";
 
 const App = () => {
   return (
-    <div className="app">
+    <BrowserRouter>
       <Nav />
-      <Hero />
-      <Main />
-    </div>
+      <Routes>
+        <Route path='/' element={<Home/>} />
+        <Route path='presskit' element={<Presskit />} />
+        <Route path="*" element={<NotFound/>} />
+      </Routes>
+      <Copyright />      
+    </BrowserRouter>
   );
 }
 

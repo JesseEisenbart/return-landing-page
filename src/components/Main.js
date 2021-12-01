@@ -9,15 +9,13 @@ const Main = () => {
     return (
         <div className="main-container">
             <div className="main">
-                <Action text="WISHLIST ON STEAM NOW!" icon="fab fa-steam" link="https://deadunicorngames.itch.io/return-pre-alpha/devlog" wishlist={true}/>  
+                <Action text="WISHLIST RETURN ON STEAM!" icon="fab fa-steam" link="https://deadunicorngames.itch.io/return-pre-alpha/devlog" wishlist={true}/>
                 <Video />
                 <Description />
-                <Action text="JOIN THE RETURN DISCORD!" icon="fab fa-discord" link="https://discord.gg/3e7hWqUJva"/>        
-                <Images/>
-                <Action text="JOIN THE MAILING LIST!" icon="far fa-envelope" link="https://discord.gg/3e7hWqUJva"/>   
-                <Footer />
-            </div>   
-            <NavFooter />                   
+                <Action text="JOIN THE MAILING LIST!" icon="far fa-envelope" link="https://discord.gg/3e7hWqUJva"/>
+                <Images/>                 
+                <Action text="JOIN OUR DISCORD AND CONNECT WITH THE DEVELOPERS!" icon="fab fa-discord" link="https://discord.gg/3e7hWqUJva"/>
+            </div>
         </div>
     )
 }

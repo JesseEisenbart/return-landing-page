@@ -1,9 +1,9 @@
 const Action = ({ text, icon, link, wishlist=false}) => {
     return (
-        <div className={wishlist ? "wishlist" : "action"}>
-            <div className="action-text">{text}</div>
+        <section className={wishlist ? "wishlist" : "action"}>
+            <h1 className="action-text">{text}</h1>
             <a className="btn" href={link} target="blank"><i className={icon}></i></a>
-        </div>    
+        </section>    
     )
 }
 

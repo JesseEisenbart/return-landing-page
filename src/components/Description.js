@@ -2,7 +2,10 @@ const Description = () => {
     return (
         <div className="description-container">
             <div className="description">
-                <h5>Return is an adventure set in the apocalyptic rebirth of your home planet, where your only hope of survival is to explore the unfamiliar landscape.</h5>
+                <div className="title-center">
+                    <h1>ABOUT</h1>
+                </div>
+                <h2>Return is a soul's like, sidescrolling adventure set in the apocalyptic rebirth of your home planet, where your only hope of survival is to explore the unfamiliar landscape.</h2>
                 <div className="columntext">
                     <p>
                         The planet’s ecosystems are shutting down, natural resources are scarce, chaos and wars rage as remaining inhabitants reach for the stars.   
